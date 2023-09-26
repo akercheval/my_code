@@ -1,1 +1,3 @@
 hey everyone! i love git
+
+i love computer science :)
